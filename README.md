@@ -29,4 +29,4 @@ JSON format API:
           }
         }`
 
-Read the SETUP_README.txt for running app.
+Read the SETUP_README.txt before running the app.
