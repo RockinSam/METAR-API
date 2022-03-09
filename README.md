@@ -1,6 +1,7 @@
 # METAR-API
 
-API created in django for getting the METAR  report inf json format.
+API created in django and python with redis for caching which takes raw METAR report and converts it to a JSON format data.
+
 Read the SETUP_README.txt before running the app.
 
 Sample METAR report:
