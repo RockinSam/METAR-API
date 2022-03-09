@@ -8,7 +8,7 @@ Sample METAR report:
 
 JSON format API: 
 
-`        {
+```        {
           "data": {
             "scode": "VOHS",
             "issued_on": "day 09 of the month at 03:00 GMT",
@@ -27,6 +27,6 @@ JSON format API:
             "air_pressure": "1017 hPa",
             "last_observation": "2022/03/09 at 03:00 GMT"
           }
-        }`
+        }```
 
 Read the SETUP_README.txt before running the app.
